@@ -18,7 +18,7 @@ function MainMenu(){
 function Title(){
     return(
         <div className="MainMenu">
-            <MainLabel />
+            {/* <MainLabel /> */}
            <span className="btnH">
                 <Button className="btnDef" >
                         <FontAwesomeIcon icon={faCarSide} 
